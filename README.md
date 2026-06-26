@@ -4,7 +4,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104%2B-009688.svg)](https://fastapi.tiangolo.com)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Ruff](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://docs.astral.sh/ruff/)
-[![CI](https://github.com/your-org/ai-data-enrichment-api/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/your-org/ai-data-enrichment-api/actions/workflows/ci-cd.yml)
+[![CI](https://github.com/amori27/ai-data-enrichment-api/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/amori27/ai-data-enrichment-api/actions/workflows/ci-cd.yml)
 
 A lightweight, zero-dependency AI-powered text enrichment API built with FastAPI. Classifies sentiment and topic, extracts entities, generates extractive summaries, detects language, and computes readability scores — all with pure Python, no external ML libraries or API keys required.
 
